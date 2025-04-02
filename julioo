@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Julio César Bonilla Gómez</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <header>
+        <div>
+            <h1>Naci en Dstrito Nacional, Santo Domingo, Republica Dominicana</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="julio.html">Inicio</a></li>
+                <li><a href="césar.html">Quiénes Somos</a></li>
+                <li><a href="bonilla.html">Contáctenos</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="julio">
+        <h2>Quien es Julio</h2>
+        <p>Nací el 22 de noviembre de 2007, vivo con mi dos padres y mis dos hermanas, actualmente estudio en el Colegio Serafín de Asis, aspiro con desarrollar la carrera de tecnología.</p>
+        <p>Disfruto mucho del automovilismo y deportes fisicos como el basketball, disfruto de escuhar musica y de salir a la calle a simplemente disfrutar.</p>
+        <img src="https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2018/12/toofarsport4.jpg" alt="Logo del Logo">
+    </section>
+
+    <section style="align-content: center;">
+        <h2>Más sobre mí</h2>
+        <p>Disfruto de la mecanica, ir a montes a subir montañas, ir a romper la calle pero tambien de vez en cuando me gusta quedarme en la casa conviviendo con mi familia</p>
+        <p>Me gusta ayudar a los demas, la empatia es algo que me sobra y siempre estaré en las buenas y en las malas para las personas que lo merezcan.</p>
+    </section>
+
+    <section style="align-items: center;">
+        <iframe width="560" height="315" src="https://www.youtube.com/shorts/ue7x8cA-jdg?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Julio César en la casa no bulto. Plan de Dios.</p>
+    </footer>
+    
+</body>
+</html>
